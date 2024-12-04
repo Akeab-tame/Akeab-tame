@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aklilu-tamene-614128298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aklilu-tamene-614128298" height="30" width="40" /></a>
 <a href="https://instagram.com/@akeabt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@akeabt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akeab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akeab" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/akeab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Akeab/" height="30" width="40" /></a>
 </p>
 
 
