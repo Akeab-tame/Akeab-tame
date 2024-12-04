@@ -24,7 +24,7 @@
 <table style="border-collapse: collapse; width: 100%; background-color: #f4f4f9; font-family: Arial, sans-serif; border: 1px solid #ddd;">
   <thead>
     <tr style="background-color: #4a90e2; color: #ffffff; text-align: left;">
-      <th style="padding: 10px; border: 1px solid #ddd;">Learning Area</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Learnt Area</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Tools</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Platforms</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Frameworks</th>
