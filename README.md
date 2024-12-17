@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aklilu Tamene</h1>
 <h3 align="center">A passionate Data Analyst, ML and AI enthusiast from Addis Ababa, Ethiopia.</h3>
 
-- 🔭 A project of Credit Scoring for Bati Bank. [Credit Scoring Bati Bank](https://github.com/Akeab-tame/Credit_Scoring_Bati_Bank.git)
+- 🔭 A project of Credit Scoring for Bati Bank. [Credit Scoring Bati Bank](https://github.com/Akeab-tame/Credit_Scoring_Bati_Bank.git), check out the [Report](https://drive.google.com/file/d/1BEdZfk28UNbbZAbCw9Ek3HrwyANBgUvB/view?usp=drive_link)
 - 🔭 A project of Ethiopian Medical Business Data Warehouse. [Ethiopian Medical Business Data Warehouse](https://github.com/Akeab-tame/Week-07_Data_Warehouse_Development.git)
-- 🔭 A project of Fraud Detection Project. [Fraud Detection Project](https://github.com/Akeab-tame/Week-08-9_Fraud_Detection.git)
+- 🔭 A project of Fraud Detection Project. [Fraud Detection Project](https://github.com/Akeab-tame/Week-08-9_Fraud_Detection.git), check out the [Report](https://drive.google.com/file/d/1lnTO6V4nq-WVY9ZTVCaP3WkCqyXfBLbg/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akeab-tame](https://github.com/Akeab-tame)
 
